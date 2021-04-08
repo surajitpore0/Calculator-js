@@ -8,5 +8,6 @@
 
 ![web app](./img/home.png)
 
--   ## A Simple Calculator Web app using **JavaScript** .
--   ## Check it out [here](https://surajitpore0.github.io/Digital-clock/) .
+-   A Simple Calculator Web app using **JavaScript** .
+
+### Check it out [here](https://surajitpore0.github.io/Calculator-js/) .
