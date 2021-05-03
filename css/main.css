@@ -12,7 +12,7 @@ body {
 }
 
 .calculator {
-    flex: 0 0 95%;
+    flex: 50% 70%;
 }
 
 .screen {
@@ -57,4 +57,11 @@ button:hover {
 }
 .btn-clear {
     background: red;
+}
+.btn-back {
+    background: red;
+}
+.fas {
+    font-size: 3rem;
+    color: black;
 }
